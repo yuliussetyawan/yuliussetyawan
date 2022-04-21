@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yuliussetyawan
-- 👀 I’m interested in Python and Mobile Apps
-- 🌱 I’m currently learning Python and Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python and Web Development
+- 🌱 I’m currently learning Python and Web Development
+- 💞️ I’m looking to collaborate  
+- 📫 How to reach me: IG @yuliusetyawan
 
 <!---
 yuliussetyawan/yuliussetyawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
